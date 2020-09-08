@@ -9,5 +9,4 @@ public class CoffeeJobApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CoffeeJobApplication.class, args);
 	}
-
 }
