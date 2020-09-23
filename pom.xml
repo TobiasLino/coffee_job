@@ -13,6 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>coffee_job</name>
 	<description>Três quilos da boa!!</description>
+	<url>https://cofee-job.herokuapp.com/</url>
 
 	<properties>
 		<java.version>11</java.version>
